@@ -1,0 +1,16 @@
+footer {
+     color: white;
+     background-color: black;
+   }
+   table.text  {
+    width:  100%; 
+    border-spacing: 0; 
+   }
+   td.rightcol {  
+    text-align: right; 
+   }
+   td.centercol {  
+    text-align: center; 
+   } 
+   p {font-size: 12px;}
+  </style>
